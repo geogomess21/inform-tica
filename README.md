@@ -22,7 +22,7 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Scrum Master |   Geovanna Elisa         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]()              |
+| Scrum Master |   Geovanna Elisa         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/geovanna-elisa-4992b2329/)              |
 
 
 # Objetivo das Aulas
