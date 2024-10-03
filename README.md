@@ -14,7 +14,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Backlog do produto](#Backlog-do-produto)
 * [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Competências desenvolvidas](#competências-desenvolvidas)
-* ![image](https://github.com/user-attachments/assets/7eb27107-8860-4f68-9b6b-b5f81b3bea57)
+* ![image](https://github.com/user-attachments/assets/076df799-2009-48a4-960e-868d1fcba271)
+
 
 
 # Projeto (API) 
