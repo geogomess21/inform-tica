@@ -21,6 +21,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 ![image](https://github.com/user-attachments/assets/a39800d4-f800-4ffb-a9da-017225f72872)
 
+## Atividade da aula Power BI (aula 10)
+![image](https://github.com/user-attachments/assets/8913710c-666e-4885-9cb6-e027097a792c)
 
 
 # Projeto (API) 
