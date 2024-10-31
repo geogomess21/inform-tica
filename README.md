@@ -33,6 +33,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 ![image](https://github.com/user-attachments/assets/5760cef9-b0b7-44c2-9e3f-694700d3afa9)
 
+## Aula 6 - Power BI - Estudo de vendas de lojas e filiais em diferentes cidades.
+
 ## Atividade da aula Power BI (aula 7)
 ![image](https://github.com/user-attachments/assets/076df799-2009-48a4-960e-868d1fcba271)
 
