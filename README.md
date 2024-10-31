@@ -16,6 +16,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * 
 ## Aula 1 - Apresentação Pessoal "3 coisas que temos em comum" - CANVA
+![Captura de tela 2024-10-31 195828](https://github.com/user-attachments/assets/cfdc53e3-ddc2-4634-81c4-a860e89d4a89)
 
 ## Aula 3 - Excel - Gráficos e tratamento de dados
 
