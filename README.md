@@ -17,7 +17,11 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * 
 ## Aula 1 - Apresentação Pessoal "3 coisas que temos em comum" - CANVA
 
-## Usando as fórmulas  SOMA, CONT.SE, SOMASE, SE, 
+## Aula 3 - Excel - Gráficos e tratamento de dados
+
+## Aula 4 - Excel - Gráficos e tratamento de dados
+
+## Aula usando as fórmulas  SOMA, CONT.SE, SOMASE, SE, 
 ![image](https://github.com/user-attachments/assets/8dbde52e-75dc-4567-bd0d-e7489abe39b6)
 
 ## Atividades sobre os exs-presidentes
