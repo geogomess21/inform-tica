@@ -14,11 +14,13 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Backlog do produto](#Backlog-do-produto)
 * [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Competências desenvolvidas](#competências-desenvolvidas)
-* ![image](https://github.com/user-attachments/assets/076df799-2009-48a4-960e-868d1fcba271)
 
 ## Atividade da aula Power BI (aula 1)
+
 ![image](https://github.com/user-attachments/assets/5760cef9-b0b7-44c2-9e3f-694700d3afa9)
 
+## Atividade da aula Power BI (aula de Indicadores)
+![image](https://github.com/user-attachments/assets/076df799-2009-48a4-960e-868d1fcba271)
 
 ## Atividade da aula Power BI
 [Arquivo da atividade](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/9f58de5acd31f06c882b8abd338fd151e63323fd/powerb2.pbix)
