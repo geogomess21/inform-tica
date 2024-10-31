@@ -19,6 +19,9 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 [arquivo da aula](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/c83f89830b1b5392c3866b8006bd9841f113ff58/Apresenta%C3%A7%C3%A3o%20de%20brainstorm%20minimalista%20verde%20e%20preto_20240812_195619_0000%20(1)_compressed.pdf)
 ![Captura de tela 2024-10-31 195828](https://github.com/user-attachments/assets/cfdc53e3-ddc2-4634-81c4-a860e89d4a89)
 
+## Usando as fórmulas  SOMA, CONT.SE, SOMASE, SE, (aula 2)
+![image](https://github.com/user-attachments/assets/8dbde52e-75dc-4567-bd0d-e7489abe39b6)
+
 ## Aula 3 - Excel - Gráficos e tratamento de dados
 
 ## Aula 4 - Excel - Gráficos e tratamento de dados
