@@ -15,15 +15,20 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
+## Usando as fórmulas  SOMA, CONT.SE, SOMASE, SE, 
+![image](https://github.com/user-attachments/assets/8dbde52e-75dc-4567-bd0d-e7489abe39b6)
+
+## Atividades sobre os exs-presidentes
+![image](https://github.com/user-attachments/assets/84f11ad4-11ef-486c-8c1e-70fd58af7dd1)
+![image](https://github.com/user-attachments/assets/3dec92b2-5484-454f-b19e-935720d82c2e)
+![image](https://github.com/user-attachments/assets/8f55282c-e54a-45a5-9e90-c08049f408d0)
+
 ## Atividade da aula Power BI (aula 1)
 
 ![image](https://github.com/user-attachments/assets/5760cef9-b0b7-44c2-9e3f-694700d3afa9)
 
 ## Atividade da aula Power BI (aula de Indicadores Escolares)
 ![image](https://github.com/user-attachments/assets/076df799-2009-48a4-960e-868d1fcba271)
-
-## Usando as fórmulas  SOMA, CONT.SE, SOMASE, SE, 
-![image](https://github.com/user-attachments/assets/8dbde52e-75dc-4567-bd0d-e7489abe39b6)
 
 
 ## Atividade da aula Power BI
