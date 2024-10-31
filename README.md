@@ -34,8 +34,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 ![image](https://github.com/user-attachments/assets/5760cef9-b0b7-44c2-9e3f-694700d3afa9)
 
 ## Aula 6 - Power BI - Estudo de vendas de lojas e filiais em diferentes cidades.
-
-(https://github.com/marianosergio/Informatica-GPI-1-2024/blob/fd1d185fe45a7917034f71ff70628ca0a2016293/dados%20das%20filiais.pbix)
+[Arquivo da atividade](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/fd1d185fe45a7917034f71ff70628ca0a2016293/dados%20das%20filiais.pbix)
 
 ## Atividade da aula Power BI (aula 7)
 ![image](https://github.com/user-attachments/assets/076df799-2009-48a4-960e-868d1fcba271)
