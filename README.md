@@ -23,6 +23,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 ![image](https://github.com/user-attachments/assets/076df799-2009-48a4-960e-868d1fcba271)
 
 ## Usando as fórmulas  SOMA, CONT.SE, SOMASE, SE, 
+![image](https://github.com/user-attachments/assets/8dbde52e-75dc-4567-bd0d-e7489abe39b6)
 
 
 ## Atividade da aula Power BI
