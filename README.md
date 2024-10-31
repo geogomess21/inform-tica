@@ -22,6 +22,9 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 ## Atividade da aula Power BI (aula de Indicadores Escolares)
 ![image](https://github.com/user-attachments/assets/076df799-2009-48a4-960e-868d1fcba271)
 
+## Usando as fórmulas  SOMA, CONT.SE, SOMASE, SE, 
+
+
 ## Atividade da aula Power BI
 [Arquivo da atividade](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/9f58de5acd31f06c882b8abd338fd151e63323fd/powerb2.pbix)
 
