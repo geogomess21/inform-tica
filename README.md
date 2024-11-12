@@ -19,6 +19,10 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 [arquivo da aula](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/c83f89830b1b5392c3866b8006bd9841f113ff58/Apresenta%C3%A7%C3%A3o%20de%20brainstorm%20minimalista%20verde%20e%20preto_20240812_195619_0000%20(1)_compressed.pdf)
 ![Captura de tela 2024-10-31 195828](https://github.com/user-attachments/assets/cfdc53e3-ddc2-4634-81c4-a860e89d4a89)
 
+## Aula 1 - Atividade da aula Power BI 
+
+![image](https://github.com/user-attachments/assets/5760cef9-b0b7-44c2-9e3f-694700d3afa9)
+
 ## Usando as fórmulas  SOMA, CONT.SE, SOMASE, SE, (aula 2)
 ![image](https://github.com/user-attachments/assets/8dbde52e-75dc-4567-bd0d-e7489abe39b6)
 
@@ -26,11 +30,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 ![image](https://github.com/user-attachments/assets/3213c554-7b8c-40b3-8274-f5c2bb226175)
 
 
-## Atividade da aula Power BI (aula 1)
-
-![image](https://github.com/user-attachments/assets/5760cef9-b0b7-44c2-9e3f-694700d3afa9)
-
-## Aula 6 - Power BI - Estudo de vendas de lojas e filiais em diferentes cidades.
+## Aula 5/6 - Power BI - Estudo de vendas de lojas e filiais em diferentes cidades.
 [Arquivo da atividade](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/fd1d185fe45a7917034f71ff70628ca0a2016293/dados%20das%20filiais.pbix)
 ![image](https://github.com/user-attachments/assets/da8ea3dc-613b-4dc9-bfe9-03a357617445)
 
