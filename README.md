@@ -23,13 +23,11 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 ![image](https://github.com/user-attachments/assets/8dbde52e-75dc-4567-bd0d-e7489abe39b6)
 
 ## Aula 3 - Excel - Gráficos e tratamento de dados
-![image]![Captura de tela 2024-11-12 185723](https://github.com/user-attachments/assets/a85ecd00-6314-4e85-b9e4-972ec6f57b9f)
+![[Captura de tela 2024-11-12 185723](https://github.com/user-attachments/assets/a85ecd00-6314-4e85-b9e4-972ec6f57b9f)
 ![Captura de tela 2024-11-12 190015](https://github.com/user-attachments/assets/aef90cf2-3a52-453d-a125-1c1bb8a330ad)
-![Captura de tela 2024-11-12 190150](https://github.com/user-attachments/assets/3911e1d3-c7cd-47e3-968b-8f5423902f62)
-
 
 ## Aula 4 - Excel - Gráficos e tratamento de dados
-
+![Captura de tela 2024-11-12 190150](https://github.com/user-attachments/assets/3911e1d3-c7cd-47e3-968b-8f5423902f62)
 
 ## Atividades sobre os exs-presidentes
 ![image]!(https://github.com/user-attachments/assets/84f11ad4-11ef-486c-8c1e-70fd58af7dd1)
