@@ -24,7 +24,8 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 ## Aula 3 - Excel - Gráficos e tratamento de dados
 ![image]![Captura de tela 2024-11-12 185723](https://github.com/user-attachments/assets/a85ecd00-6314-4e85-b9e4-972ec6f57b9f)
-
+![Captura de tela 2024-11-12 190015](https://github.com/user-attachments/assets/aef90cf2-3a52-453d-a125-1c1bb8a330ad)
+![Captura de tela 2024-11-12 190150](https://github.com/user-attachments/assets/3911e1d3-c7cd-47e3-968b-8f5423902f62)
 
 
 ## Aula 4 - Excel - Gráficos e tratamento de dados
