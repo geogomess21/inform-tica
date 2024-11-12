@@ -26,8 +26,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 ## Aula 4 - Excel - Gráficos e tratamento de dados
 
-## Aula usando as fórmulas  SOMA, CONT.SE, SOMASE, SE, 
-![image](https://github.com/user-attachments/assets/8dbde52e-75dc-4567-bd0d-e7489abe39b6)
 
 ## Atividades sobre os exs-presidentes
 ![image](https://github.com/user-attachments/assets/84f11ad4-11ef-486c-8c1e-70fd58af7dd1)
