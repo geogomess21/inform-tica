@@ -31,9 +31,9 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 ## Atividades sobre os exs-presidentes
-![image]!(https://github.com/user-attachments/assets/84f11ad4-11ef-486c-8c1e-70fd58af7dd1).
-![image]!(https://github.com/user-attachments/assets/3dec92b2-5484-454f-b19e-935720d82c2e).
-![image]!(https://github.com/user-attachments/assets/8f55282c-e54a-45a5-9e90-c08049f408d0).
+![image]!(https://github.com/user-attachments/assets/84f11ad4-11ef-486c-8c1e-70fd58af7dd1)
+![image]!(https://github.com/user-attachments/assets/3dec92b2-5484-454f-b19e-935720d82c2e)
+![image]!(https://github.com/user-attachments/assets/8f55282c-e54a-45a5-9e90-c08049f408d0)
 .
 ## Atividade da aula Power BI (aula 1)
 
