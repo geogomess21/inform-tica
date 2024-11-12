@@ -25,11 +25,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 ## Aula 3/4 - Excel - Gráficos e tratamento de dados
 ![image](https://github.com/user-attachments/assets/3213c554-7b8c-40b3-8274-f5c2bb226175)
 
-## Atividades sobre os exs-presidentes
-![image]!(https://github.com/user-attachments/assets/84f11ad4-11ef-486c-8c1e-70fd58af7dd1)
-![image]!(https://github.com/user-attachments/assets/3dec92b2-5484-454f-b19e-935720d82c2e)
-![image]!(https://github.com/user-attachments/assets/8f55282c-e54a-45a5-9e90-c08049f408d0)
-.
+
 ## Atividade da aula Power BI (aula 1)
 
 ![image](https://github.com/user-attachments/assets/5760cef9-b0b7-44c2-9e3f-694700d3afa9)
