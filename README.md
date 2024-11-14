@@ -47,6 +47,10 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 ## Atividade da aula Power BI (aula 10)
 ![image](https://github.com/user-attachments/assets/8913710c-666e-4885-9cb6-e027097a792c)
 
+## Tarefa 4: Power BI, dados abertos, fórmulas DAX, KPI e Gith
+![image](https://github.com/user-attachments/assets/c64baedb-8a26-4067-8fb1-ea11f566be63)
+![image](https://github.com/user-attachments/assets/446dd80a-5ed5-487a-8afe-491a78e4c75f)
+
 
 # Projeto (API) 
 Descrição da demanda realizada pelo parceiro acadêmico.
