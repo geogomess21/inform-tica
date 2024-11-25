@@ -51,8 +51,12 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 ![image](https://github.com/user-attachments/assets/c64baedb-8a26-4067-8fb1-ea11f566be63)
 ![image](https://github.com/user-attachments/assets/446dd80a-5ed5-487a-8afe-491a78e4c75f)
 
+## Gif Power Apps
+https://teams.microsoft.com/l/message/19:6bad6cc6-ff45-4cba-bc8d-35b8eaef719e_fd971cfd-8fe9-4436-9cf1-38012cf22695@unq.gbl.spaces/1732578342782?context=%7B%22contextType%22%3A%22chat%22%7D
 
 # Projeto (API) 
+
+
 Descrição da demanda realizada pelo parceiro acadêmico.
 
 # Equipe
