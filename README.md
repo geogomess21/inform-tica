@@ -57,6 +57,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 ## Dados usados na prova
 
-[Arquivo da atividade](https://github.com/marianosergio/Informatica-GPI-1-2024/blob/9f58de5acd31f06c882b8abd338fd151e63323fd/powerb2.pbix)
+[Arquivo da atividade](https://github.com/user-attachments/assets/6b6c829a-2d02-4300-a1b8-859eba587e1e)
+
 
 
